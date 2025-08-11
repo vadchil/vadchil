@@ -6,7 +6,7 @@
 
 📬 **Kontak Saya**  
 - Email: college.satriafm@gmail.com 
-- Website: <a href="masfadhil.web.id">masfadhil.web.id</a>
+- Website: <a href="https://masfadhil.web.id">masfadhil.web.id</a>
 
 ---
 ## 🔥 Skill
