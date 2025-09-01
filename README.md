@@ -2,7 +2,7 @@
 💻 Programmer | Web Developer | SEO Specialist  
 
 🚀 **Tentang Saya**  
-- 🌱 Sedang belajar : AI, Full Stack, dan Web3  
+- 🌱 Sedang belajar : AI, React, dan Web3  
 
 📬 **Kontak Saya**  
 - Email: college.satriafm@gmail.com 
