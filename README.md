@@ -1,8 +1,8 @@
 # Halo, Saya Satria 👋
-💻 Programmer | Web Developer | SEO Specialist  
+💻 Web Developer & SEO Specialist  
 
 🚀 **Tentang Saya**  
-- 🌱 Sedang belajar : AI, React, dan Web3  
+- 🌱 Sedang belajar : React dan Supabase  
 
 📬 **Kontak Saya**  
 - Email: college.satriafm@gmail.com 
