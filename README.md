@@ -1,15 +1,24 @@
-# Halo, Saya Satria 👋
-💻 Web Developer & SEO Specialist  
+## 👋 Halo, saya Satria Fadhil Muhammad
 
-🚀 **Tentang Saya**  
-- 🌱 Sedang belajar : React dan Supabase  
+Saya adalah seorang Full Stack Web Developer yang berfokus pada pengembangan website modern, responsif, dan scalable.
 
-📬 **Kontak Saya**  
-- Email: college.satriafm@gmail.com 
-- Website: <a href="https://masfadhil.web.id">masfadhil.web.id</a>
+### 🚀 Tech Stack
+- ⚛️ Frontend: React.js & Next.js  
+- 🎨 Styling: Tailwind CSS  
+- 🛠 Backend: Laravel  
+- 🗄 Database: MySQL & Supabase  
 
----
-## 🔥 Skill
-- **Bahasa:** HTML, CSS, JS, PHP
-- **Framework:** Bootstrap, Tailwind, Laravel
-- **Tools:** VS Code, Laragon, Reqable
+### 💡 Yang Saya Kerjakan
+- Membangun aplikasi web yang cepat dan responsif
+- Mengembangkan sistem backend yang aman dan terstruktur
+- Integrasi REST API dan manajemen database
+- Optimasi performa dan SEO pada aplikasi berbasis Next.js
+
+### 🎯 Tujuan
+Menciptakan solusi digital yang efisien, clean, dan memberikan pengalaman pengguna terbaik.
+
+### 📬 Kontak Saya
+- Email: college.satriafm@gmail.com
+- Website: <a href="https://satriafadhilmuhammad.vercel.app">Personal Portfolio</a>
+
+📫 Terbuka untuk kolaborasi dan project freelance.
